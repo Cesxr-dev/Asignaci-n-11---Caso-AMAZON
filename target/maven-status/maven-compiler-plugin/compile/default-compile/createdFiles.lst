@@ -1,0 +1,6 @@
+models\PedidoProducto.class
+models\Cliente.class
+models\Nombre.class
+models\Pedido.class
+com\mycompany\sistemaamazon\SistemaAmazon.class
+models\Producto.class
